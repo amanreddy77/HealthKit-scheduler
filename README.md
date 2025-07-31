@@ -4,7 +4,8 @@ A custom calendar system for HealthTick coaches to schedule onboarding and follo
 
 ## Live Demo
 
-**Deployed at:** https://healthtick-scheduler.web.app
+**Deployed at:** 
+https://health-kit-scheduler.vercel.app/
 
 ## Features
 
